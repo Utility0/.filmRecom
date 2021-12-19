@@ -1,0 +1,10 @@
+.vscode
+bin
+data
+etc
+include
+lib
+lib64
+share
+out.txt
+pyvenv.cfg
